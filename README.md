@@ -1,5 +1,7 @@
 # Focus-iOS-Xcode-Simulator
 
+# UNDER CONSTRUCTION
+
 This will help you to have a useable copy of Firefox Focus for iOS running on a macOS computer.
 
 Install the version of Xcode required to build Firefox Focus for iOS from https://xcodereleases.com/.  The version number required can be found at at https://github.com/mozilla-mobile/firefox-ios
