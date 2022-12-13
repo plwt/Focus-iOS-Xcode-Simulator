@@ -14,6 +14,6 @@ Open the Terminal
 
 ```sh ./script.sh```
 
-Open Xcode and navigate to ```/Users/(user name)/focus-ios``` and select the ```Client.xcodeproj``` file
+Open Xcode and navigate to ```/Users/(user name)/focus-ios``` and select the ```Blockzilla.xcodeproj``` file
 
-Along the top of Xcode, change Account to Fennec and select a current iOS device.  Select the Play icon to start the build process.  Firefox for iOS will be built and will display in the Xcode simulator.
+Along the top of Xcode, change Account to Focus and select a current iOS device.  Select the Play icon to start the build process.  Firefox for iOS will be built and will display in the Xcode simulator.
