@@ -8,5 +8,5 @@ cd
 
 git clone https://github.com/mozilla-mobile/focus-ios.git
 
-cd firefox-ios
+cd focus-ios
 sh ./checkout.sh
