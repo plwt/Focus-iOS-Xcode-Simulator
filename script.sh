@@ -9,5 +9,4 @@ cd
 git clone https://github.com/mozilla-mobile/focus-ios.git
 
 cd firefox-ios
-git checkout vXX.X
-sh ./bootstrap.sh
+sh ./checkout.sh
