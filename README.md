@@ -12,8 +12,6 @@ Open the Terminal
 
 ```cd /Users/(user name)/Focus-iOS-Xcode-Simulator```
 
-Using Finder (keep Terminal open) open the file and replace the ```git checkout vXX.X``` with the current Release version number (example ```git checkout v107.0```)
-
 ```sh ./script.sh```
 
 Open Xcode and navigate to ```/Users/(user name)/focus-ios``` and select the ```Client.xcodeproj``` file
